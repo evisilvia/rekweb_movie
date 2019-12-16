@@ -46,6 +46,7 @@ $movie = json_decode($movie, true);
 	</div>
 		</div>
 	</div>
+  
 
 	
     <!-- Optional JavaScript -->
